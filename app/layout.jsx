@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
             target="_blank"
           >
             RAWG
-          </a>
+          </a>{" "}
           | Deployed on Vercel
         </footer>
       </body>
